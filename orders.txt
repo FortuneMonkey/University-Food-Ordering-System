@@ -1,0 +1,20 @@
+O1,C1,V5,Reviewed,108.48,DELIVERY,2023-12-11,I1:2(more soy sauce);I2:5(make soup seperate);,Pinnacle
+O2,C1,V2,Cancelled,27.5,DINE_IN,2023-12-11,I2:5(extra crispy);,DINEIN
+O3,C2,V3,Cancelled,84.0,TAKEAWAY,2023-12-02,I1:5();I2:5(more sauce);,TAKEAWAY
+O4,C4,V1,Cancelled,36.0,DINE_IN,2023-12-03,I2:3();,DINEIN
+O5,C3,V1,Cancelled,24.0,DINE_IN,2023-12-14,I2:2();,DINEIN
+O6,C5,V1,Finished,54.0,DELIVERY,2023-12-17,I1:5(spicier please);,Pinnacle
+O7,C5,V2,Accepted,10.0,TAKEAWAY,2023-12-17,I3:2();,TAKEAWAY
+O8,C4,V2,Finished,55.0,DELIVERY,2023-12-18,I3:10(more sauce);,Pinnacle
+O9,C3,V1,Cancelled,24.0,DINE_IN,2023-12-23,I2:2();,DINEIN
+O10,C2,V1,Finished,19.0,TAKEAWAY,2023-12-25,I3:5();,TAKEAWAY
+O11,C2,V2,Accepted,36.0,DINE_IN,2023-12-30,I1:3(0);,DINEIN
+O12,C1,V1,Finished,43.0,DELIVERY,2023-12-30,I3:10();,Parkhill
+O13,C1,V2,Accepted,27.98,TAKEAWAY,2023-12-11,I1:2();,TAKEAWAY
+O14,C2,V2,Cancelled,17.0,DELIVERY,2023-12-11,I4:2(spicy);,Parkhill
+O15,C2,V4,Cancelled,24.95,TAKEAWAY,2023-12-11,I1:5(less ice);,TAKEAWAY
+O16,C3,V3,Driver not found,93.46,DINE_IN,2023-12-11,I3:2(extra crispy);I4:1();I1:2(make it non alchoholic);,Endah
+O17,C4,V1,Accepted,10.5,DINE_IN,2023-12-11,I2:3(extra strong);,DINEIN
+O18,C2,V1,Reviewed,29.49,DINE_IN,2023-12-11,I1:1(0);I2:1();,DINEIN
+O19,C2,V1,Accepted,29.98,DELIVERY,2023-12-11,I4:1(extra cheese);I5:1();,Parkhill
+O20,C4,V1,Cancelled,13.99,DELIVERY,2023-12-11,I5:0();I5:1();,Parkhill

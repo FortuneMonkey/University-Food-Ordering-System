@@ -1,0 +1,25 @@
+V1,I1,Chocolate Cake,Decadent chocolate cake with layers of rich ganache,25.99
+V1,I2,Espresso,Strong and aromatic espresso shot,3.50
+V1,I3,Chicken Alfredo Pasta,Creamy Alfredo sauce with grilled chicken over pasta,18.99
+V1,I4,Classic Margherita Pizza,Fresh mozzarella;tomatoes;and basil on a thin crust,15.99
+V1,I5,Green Salad,Fresh mixed greens with balsamic vinaigrette,8.99
+V2,I1,Steak Burger,Char-grilled beef patty with lettuce & tomato & and cheese,13.99
+V2,I2,Crispy Onion Rings,Golden brown onion rings with a crunchy coating,5.50
+V2,I3,Chicken Caesar Wrap,Grilled chicken & romaine lettuce & and Caesar dressing,10.99
+V2,I4,BBQ Ribs,Slow-cooked barbecue ribs with tangy sauce,18.50
+V2,I5,Apple Pie,Classic apple pie with a flaky crust,8.99
+V3,I1,Margarita Cocktail,Classic margarita with tequila;triple sec;and lime,9.99
+V3,I2,Caesar Salad,Romaine lettuce;croutons;and Caesar dressing,7.50
+V3,I3,Grilled Salmon,Freshly grilled salmon fillet with lemon herb butter,26.99
+V3,I4,Buffalo Wings,Spicy chicken wings with blue cheese dip,14.50
+V3,I5,Shrimp Scampi,Garlic-infused shrimp in a white wine butter sauce,19.99
+V4,I1,Chai Latte,Spiced tea with steamed milk and honey,4.99
+V4,I2,Vegetarian Wrap,Grilled vegetables and hummus in a whole wheat wrap,9.50
+V4,I3,Falafel Platter,Crispy falafel balls served with tahini sauce,12.99
+V4,I4,Hawaiian Poke Bowl,Fresh ahi tuna;avocado;and rice with soy dressing,16.50
+V4,I5,Mango Smoothie,Refreshing mango smoothie with yogurt,6.99
+V5,I1,Sushi Platter,Assorted sushi rolls with wasabi and soy sauce,32.99
+V5,I2,Ramen Bowl,Japanese ramen noodles in savory broth with vegetables,12.50
+V5,I3,Tempura Shrimp,Crispy tempura-battered shrimp with dipping sauce,20.99
+V5,I4,Beef Teriyaki,Grilled beef slices in teriyaki sauce with steamed rice,22.50
+V5,I5,Miso Soup,Traditional Japanese miso soup with tofu and seaweed,6.99

@@ -1,0 +1,5 @@
+V1,pass123,The Rice,011236232
+V2,mirasaa123,Restoran Mirasaa,02393984
+V3,samuel123,Samuel's Grill Ba,082323992
+V4,don123,Uncle Don's,092373282
+V5,osaka123,Osaka Kitchen,023232992
