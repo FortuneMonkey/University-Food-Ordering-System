@@ -16,7 +16,7 @@ This project is a **Java-based, user-friendly application** designed to revoluti
 
 **Getting Started**
 
-1. Clone this repository: `git clone https://github.com/<your-username>/university-food-ordering-system.git`
+1. Clone this repository: `git clone https://github.com/FortuneMonkey/university-food-ordering-system.git`
 2. Install required dependencies (refer to `dependencies.txt` for details).
 3. Configure database connection details in `application.properties`.
 4. Start the application using your preferred Java IDE or command line.
@@ -25,12 +25,8 @@ This project is a **Java-based, user-friendly application** designed to revoluti
 
 We welcome contributions to this project! Feel free to open pull requests with bug fixes, enhancements, or new features. Please ensure your code adheres to the project's coding conventions.
 
-**License**
-
-This project is licensed under the MIT License.  
-
 **Additional Notes**
 
 For a more comprehensive overview of the project architecture, design choices, and implementation details, please refer to the dedicated documentation folder within the repository.
 
-We hope this food ordering system makes your life at Tech University a little bit tastier and more convenient!
+I hope this food ordering system makes your life at Tech University a little bit tastier and more convenient!
